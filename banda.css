@@ -13,3 +13,9 @@ a
 {
     text-transform: uppercase;
 }
+
+.ole-regular {
+  font-family: "Ole", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
