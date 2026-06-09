@@ -18,11 +18,11 @@ Azért választottam, mert: Illik a weboldal témájához
 
 ## Mit módosítottam?
 
--
--
--
--
--
+- A szöveget és a képeket átcseréltem
+- A weboldal háttérszínét teljesen megvátoztattam
+- Kiegészítettem a "Tour" részt
+- A ticket vásárlás eltörlése
+- A navigációs sávon eltöröltem 
 
 ## Használt technológiák
 
@@ -33,4 +33,4 @@ Azért választottam, mert: Illik a weboldal témájához
 
 ## Weboldal linkje
 
-GitHub Pages link:
+GitHub Pages link: https://github.com/karzso-5tc/Template-Weboldal#
