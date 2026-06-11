@@ -19,3 +19,8 @@ a
   font-weight: 400;
   font-style: normal;
 }
+
+.w3-button {
+    color: #800020;
+    background-color: #888;
+}
