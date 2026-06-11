@@ -22,7 +22,7 @@ Azért választottam, mert: Illik a weboldal témájához
 - A weboldal háttérszínét teljesen megvátoztattam
 - Kiegészítettem a "Tour" részt
 - A ticket vásárlás eltörlése
-- A navigációs sávon eltöröltem 
+- A navigációs sávon eltöröltem egy-néhány dolgot, a gombok színét megváltoztattam
 
 ## Használt technológiák
 
